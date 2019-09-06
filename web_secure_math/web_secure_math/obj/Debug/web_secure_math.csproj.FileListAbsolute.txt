@@ -1,0 +1,14 @@
+D:\workspace\visual studio  2017\Projects\WpfApp1\WpfApp1\bin\Debug\web_secure_math.exe.config
+D:\workspace\visual studio  2017\Projects\WpfApp1\WpfApp1\bin\Debug\web_secure_math.exe
+D:\workspace\visual studio  2017\Projects\WpfApp1\WpfApp1\bin\Debug\web_secure_math.pdb
+D:\workspace\visual studio  2017\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+D:\workspace\visual studio  2017\Projects\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+D:\workspace\visual studio  2017\Projects\WpfApp1\WpfApp1\obj\Debug\web_secure_math_MarkupCompile.cache
+D:\workspace\visual studio  2017\Projects\WpfApp1\WpfApp1\obj\Debug\web_secure_math_MarkupCompile.lref
+D:\workspace\visual studio  2017\Projects\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+D:\workspace\visual studio  2017\Projects\WpfApp1\WpfApp1\obj\Debug\web_secure_math.g.resources
+D:\workspace\visual studio  2017\Projects\WpfApp1\WpfApp1\obj\Debug\web_secure_math.Properties.Resources.resources
+D:\workspace\visual studio  2017\Projects\WpfApp1\WpfApp1\obj\Debug\web_secure_math.csproj.GenerateResource.cache
+D:\workspace\visual studio  2017\Projects\WpfApp1\WpfApp1\obj\Debug\web_secure_math.csproj.CoreCompileInputs.cache
+D:\workspace\visual studio  2017\Projects\WpfApp1\WpfApp1\obj\Debug\web_secure_math.exe
+D:\workspace\visual studio  2017\Projects\WpfApp1\WpfApp1\obj\Debug\web_secure_math.pdb
